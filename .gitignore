@@ -1,33 +1,11 @@
-
 build/
-cmake-build-*/
-CMakeFiles/
-Makefile
-*.make
-*.dir/
-
 *.o
-*.obj
-*.a
-*.lib
-*.dll
-*.so
-*.dylib
 *.exe
 *.out
-
-# IDE
 .vscode/
 .idea/
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-
-# ОС
 .DS_Store
 Thumbs.db
-
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
